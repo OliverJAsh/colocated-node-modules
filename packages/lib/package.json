@@ -1,0 +1,6 @@
+{
+  "name": "lib",
+  "dependencies": {
+    "effect": "^3.5.6"
+  }
+}
